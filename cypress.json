@@ -1,0 +1,9 @@
+{
+    "baseUrl": "http://demo.automationtesting.in",
+    "chromeWebSecurity": false,
+    "testFiles": "./**/**/*.cy.js",
+    "viewportWidth": 1400,
+    "viewportHeight": 800
+    
+  }
+  
